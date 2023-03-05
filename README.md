@@ -1,5 +1,5 @@
 # Dogecoin_Time_Series
-A Time Series forecast of Dogecoin using Python and the Yahoo Finance API.
+A Time Series forecast of the Dogecoin cryptocurrency using Python and the Yahoo Finance API.
 
 This repo uses the ARIMA package. ARIMA stands for Autoregressive Integrated Moving Average. 
 
